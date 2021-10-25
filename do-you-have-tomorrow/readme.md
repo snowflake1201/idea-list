@@ -23,7 +23,9 @@ The reasons which make your answer could depend on a lot of aspects.
 "Yes, I don't have reason to die."  
 
 The Q&A like a tree. Evert branch have a page.
-1. Do you have tomorrow? Yes->2 No->3  
+1. Do you have tomorrow?  
+  Yes->2  
+  No->3    
 2. How many days you think you have?  
   A. Less than 10.->4  
   B. Less than 30.->5  
