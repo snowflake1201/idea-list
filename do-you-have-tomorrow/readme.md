@@ -24,16 +24,16 @@ The reasons which make your answer could depend on a lot of aspects.
 
 The Q&A like a tree. Evert branch have a page.
 1. Do you have tomorrow? Yes->2 No->3  
-2. How many days you think you have?
-  A. Less than 10.->4
-  B. Less than 30.->5
-  C. Less than 60.->6
-  D. More than 60.->7
+2. How many days you think you have?  
+  A. Less than 10.->4  
+  B. Less than 30.->5  
+  C. Less than 60.->6  
+  D. More than 60.->7  
   E. Other answer _______.  
 3. What reasons rob your tomorrow?  
-  A. Money->8
-  B. People->9
-  C. Health->10
-  D. Mood->11
+  A. Money->8  
+  B. People->9  
+  C. Health->10  
+  D. Mood->11  
   E. I don't know, just can't.->12   
   
