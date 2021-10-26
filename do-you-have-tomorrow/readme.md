@@ -1,13 +1,13 @@
 This idea will realize by app or website.  
-The main goal are find the people who can't survive tomorrow(less than 60 days) and the people who have just enough ability and willing to help others. 
+The main goal is to find the people who can't survive tomorrow(less than 60 days) and the people who have just enough ability and willingness to help others. 
 Match them.  
   
-If SOMEONE doesn't have enough food, and SOMEONE has foods that is about to expire but too much to finish.  
-Great! you are great partner!  
+If SOMEONE doesn't have enough food, and SOMEONE has foods that are about to expire but too much to finish.  
+Great! you are a great partner!  
 If SOMEONE has a terrible day, and SOMEONE willing to bring happiness to others.  
 Bingo!  
   
-I want to make this kind of match instant, convenient and easy to operate.  
+I want to make this kind of match instant, convenient, and easy to operate.  
 Minimize the cost of helping others and seeking help.  
   
   
@@ -18,7 +18,7 @@ The reasons which make your answer could depend on a lot of aspects.
 "No, I don't have enough money."  
 "No, my body is broken."  
 "No, some weird thought in my brain let me too painful to live."  
-"Yes, I have people who I love deeply."  
+"Yes, there is someone who I love deeply."  
 "Yes, I am healthy and happy."  
 "Yes, I don't have reason to die."  
 
